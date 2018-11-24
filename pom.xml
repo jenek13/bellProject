@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <groupId>ru.bellintegrator</groupId>
-    <artifactId>practice</artifactId>
+    <groupId>jenekproduction</groupId>
+    <artifactId>belli</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
-    <name>Practice</name>
+    <name>Somename</name>
 
     <properties>
         <java.version>1.8</java.version>
